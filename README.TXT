@@ -1,14 +1,10 @@
-------------------------------------------------------------------------
-Dies ist die README-Datei des Projekts. Hier sollten Sie Ihr Projekt
-beschreiben.
-Erzählen Sie dem Leser (jemand, der nichts über dieses Projekt weiss),
-alles, was er/sie wissen muss. Üblicherweise sollte der Kommentar 
-zumindest die folgenden Angaben umfassen:
-------------------------------------------------------------------------
+# Tipp des Tages - Clien
 
-PROJEKTBEZEICHNUNG:
-PROJEKTZWECK:
-VERSION oder DATUM:
-WIE IST DAS PROJEKT ZU STARTEN:
-AUTOR(EN):
-BENUTZERHINWEISE:
+12. Klasse
+
+## Themen
+* Client - Server
+* Sockets
+
+Der Server läuft auf Port 4242
+Als Adresse ist 127.0.0.1 eingetragen. Diese muss passend verändert werden.
